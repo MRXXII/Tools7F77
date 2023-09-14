@@ -13,4 +13,8 @@ Kata-Perintah :
 # pip install mechanize
 # pip install requests
 # pkg install git
-# git clone 
+# git clone https://github.com/MRXXII/Tools7F77.git
+# cd Tools7F77
+# chmod +x 7F77Tools.sh
+# bash / sh 7F77Tools.sh
+# THANK YOU MY FRIEND, I HOPE THIS TOOL IS USEFUL
